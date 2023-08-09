@@ -1252,7 +1252,7 @@
                     </entry>
                     <entry>
                         <key>Basic Authentication Username</key>
-                        <value>dih_api</value>
+                        <value>user_api</value>
                     </entry>
                     <entry>
                         <key>Basic Authentication Password</key>
